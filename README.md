@@ -47,7 +47,19 @@ In my day-to-day work, I enjoy working with Java (and the powerful Spring Boot!)
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
 <h2 align="center"> Experience </h2>
-
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <img alt="Image" src="https://github.com/user-attachments/assets/4ded96a5-dac9-4674-953a-a068ad4075fe" style="max-width: 100%;">
+    </td>
+    
+  <td style="width: 50%; vertical-align: top;">
+      <p style="text-align: justify;">
+        Atualmente, não possuo experiência profissional formal na área. Estou focado em aprimorar minhas habilidades em desenvolvimento Full Stack e em busca de oportunidades para aplicar o que tenho aprendido.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
