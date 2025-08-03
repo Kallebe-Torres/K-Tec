@@ -28,7 +28,7 @@ In my day-to-day work, I enjoy working with Java (and the powerful Spring Boot!)
 
 </br>
 <p>
-  - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+ <!--💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.-->
 </p>
 
 <!--End Intro-->
