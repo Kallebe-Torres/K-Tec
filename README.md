@@ -2,8 +2,7 @@
 <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/ba1ff09a-a7c7-44ab-ad01-a5aac48551fc" />
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 
 
 <!--Header Name-->
